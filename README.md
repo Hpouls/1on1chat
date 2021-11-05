@@ -1,7 +1,7 @@
 # 1on1chat
 It's working as intented
 
-"message-app" is the server 
+"messagenger-app" is the server 
 "messageappClient" is the client
 
 Koden virker kun for 2 personer der skriver sammen, hvor serveren er en og clienten er den anden.
