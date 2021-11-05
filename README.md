@@ -20,3 +20,9 @@ https://download2.gluonhq.com/openjfx/17.0.1/openjfx-17.0.1_windows-x64_bin-sdk.
 
 Gætter på det er den her til mac:
 https://download2.gluonhq.com/openjfx/17.0.1/openjfx-17.0.1_osx-aarch64_bin-sdk.zip
+
+Og der er kun en scene. Brug Scenebuilder:
+https://gluonhq.com/products/scene-builder/#download
+Når i skal til at lave flere scener eller gerne ville lave om på den der er der i forvejen.
+
+Har ikke selv brugt den til at lave det som det er nu, det er bare skrvet ind i fxml filen
